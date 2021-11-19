@@ -27,24 +27,7 @@ Deployment ready-to-use with Docker, Gunicorn / Nginx, Heroku.
 
 <br />
 
-## Quick Start in [Docker](https://www.docker.com/)
 
-> Get the code
-
-```bash
-$ git clone https://github.com/app-generator/flask-datta-able.git
-$ cd flask-datta-able
-```
-
-> Start the app in Docker
-
-```bash
-$ docker-compose pull   # download dependencies 
-$ docker-compose build  # local set up
-$ docker-compose up -d  # start the app 
-```
-
-Visit `http://localhost:85` in your browser. The app should be up & running.
 
 ## How to use it
 
