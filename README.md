@@ -2,9 +2,12 @@
 
 ![alt text](https://www.leanspace.io/wp-content/uploads/logo-basique.svg)
 
-## Debris Eaters Team (Roberto Del Prete, Carla Cicala, Stefano Cannavacciolo, Chiara Abbundo)
-Open-source dashboard for Leanspace hackathon to highlight Key Performance Indicator of ClearSpace-1 space mission. 
-Core API provided from leanspace.io.
+## Debris Eaters Team 
+### [ Roberto Del Prete, Carla Cicala, Stefano Cannavacciolo, Chiara Abbundo ]
+Open-source dashboard for Leanspace hackathon to highlight Key Performance Indicator (KPI) of ClearSpace-1 space mission. 
+
+## Core APIs provided from <a href="https://www.leanspace.io/">leanspace.io</a>. 
+#### A heartfelt thanks to the technical support that followed us during the two-day hackathon.
 
 Code base in **Flask** Framework  with Bootstrap 4 Lite for styling.
 Feature-rich pages and components with fully developer-centric code. 
