@@ -2,8 +2,13 @@
 
 ![alt text](https://www.leanspace.io/wp-content/uploads/logo-basique.svg)
 
-## Debris Eaters Team
-Open-source dashboard for Leanspace hackathon. Code base forked by AppSeed in **Flask** Framework  with Bootstrap 4 Lite for styling. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. Deployment ready-to-use with Docker, Gunicorn / Nginx, Heroku. />
+## Debris Eaters Team (Roberto Del Prete, Carla Cicala, Stefano Cannavacciolo, Chiara Abbundo)
+Open-source dashboard for Leanspace hackathon to highlight Key Performance Indicator of ClearSpace-1 space mission. 
+Core API provided from leanspace.io.
+
+Code base in **Flask** Framework  with Bootstrap 4 Lite for styling.
+Feature-rich pages and components with fully developer-centric code. 
+Deployment ready-to-use with Docker, Gunicorn / Nginx, Heroku.
 
 
 
@@ -84,6 +89,6 @@ $ # Access the dashboard in browser: http://127.0.0.1:5000/
 > Note: To use the app, please access the registration page and create a new user. After authentication, the app will unlock the private pages.
 
 
-> Credits to style and layout:
+> Credits for style and layout:
 
-- [Datta Able Flask](https://docs.appseed.us/products/flask-dashboards/datta-able) - product documentation
+- [Code base](https://docs.appseed.us/products/flask-dashboards/datta-able) - product documentation
